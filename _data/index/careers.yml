@@ -7,11 +7,14 @@
 - name:
     detail: SK Holdings C&C
   desc:
-    detail:
-      Flex Component Framework / Felx Application Development /
-      Web Front-End Framework Development(jQuery / WebComponent) /
-      Web Front-End Development (React / Angular..etc) / Mobile App Development (Ionic / Android / Kotlin / iOS ..etc) /
-      BlockChain Service Development(Solidity..etc)
+    detail: >+
+      Mobile App Development (Ionic / Android / Kotlin / iOS ..etc)
+      Web Front-End Development (React / Angular..etc)
+      Web Front-End Framework Development(jQuery / WebComponent)
+      Flex Component Framework / Flex Application Development
+
+
+
 
   date:
     detail: Nov.2009 ~ Current
