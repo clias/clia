@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: HTML5, JavaScript, jQuery, ReactJS, Angular , Kotlin, Swift , Ionic , Solidity
-percentage: 100, 100,100, 80, 70, 20, 20, 50 , 30
+aspects: HTML5, JavaScript, jQuery, ReactJS, Angular , Kotlin, Ionic
+percentage: 100, 100,100, 80, 70, 30, 70

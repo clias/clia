@@ -1,30 +1,79 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+
+
+
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: SK Holdings C&C
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail:
+      Flex Component Framework / Felx Application Development /
+      Web Front-End Framework Development(jQuery / WebComponent) /
+      Web Front-End Development (React / Angular..etc) / Mobile App Development (Ionic / Android / Kotlin / iOS ..etc) /
+      BlockChain Service Development(Solidity..etc)
+
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Nov.2009 ~ Current
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail:  Developer
+  icon: fa-plus-square
+  present: true
+
+
+
+- name:
+    detail: Pandora TV
+  desc:
+    detail: Flash / Media Server Application Development
+  date:
+    detail: Apr.2009 ~ Aug.2009
+  job:
+    detail: Team Leader / Developer
+  icon: fa-plus-square
+  present: true
+
+
+- name:
+    detail: Iconic Interactive
+  desc:
+    detail: Flash Development
+  date:
+    detail: Jun.2007 ~ Mar.2009
+  job:
+    detail: Team Leader / Developer
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: IMJ Korea
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Flash Development
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Feb.2006 ~ Jul.2007
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Developer
   icon: fa-plus-square
+  present: true
+
+- name:
+    detail: First Soft
+  desc:
+    detail: Flash Application Development
+  date:
+    detail: Sep.2005 ~ Feb.2006
+  job:
+    detail: Developer
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: CLIA
+  desc:
+    detail: I founded a company (Flash / Media Server Application Development)
+  date:
+    detail: Apr.2003 ~ Sep.2005
+  job:
+    detail: CEO / Developer
+  icon: fa-plus-square
+  present: true
